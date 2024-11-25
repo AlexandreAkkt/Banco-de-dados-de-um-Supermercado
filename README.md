@@ -1,4 +1,4 @@
-Estudo de caso.
+Estudo de caso. Faculdade Unifecaf
 Os proprietários de um supermercado precisam de um sistema que viabilize o
 armazenamento de informações sobre seus produtos, colaboradores e clientes para que
 no momento em que ocorram as vendas todas as informações possam ser guardadas em
